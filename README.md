@@ -6,6 +6,12 @@ ADVANCED JAVA — D387
 PRFA — BYN2
 
 
+LINKS TO GITLAB REPOSITORIES:
+https://gitlab.com/wgu-gitlab-environment/student-repos/dshapi3/d387-advanced-java/-/tree/main?ref_type=heads
+https://gitlab.com/wgu-gitlab-environment/student-repos/dshapi3/d387-advanced-java/-/tree/working_branch?ref_type=heads
+
+
+
 COMPETENCIES
 4104.1.1 : Writes Multithreaded Code
 
