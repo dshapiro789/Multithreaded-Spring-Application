@@ -1,9 +1,8 @@
 # Multithreaded-Spring-Application
 Deploying A Modified Multithreaded Spring Application To The Cloud (Technologies: Java backend, Angular frontend, Docker, Azure cloud)
 
-BYN2 — BYN2 TASK 1: DEPLOYING A MODIFIED MULTITHREADED SPRING APPLICATION TO THE CLOUD
+TASK: DEPLOYING A MODIFIED MULTITHREADED SPRING APPLICATION TO THE CLOUD
 ADVANCED JAVA — D387
-PRFA — BYN2
 
 
 LINKS TO GITLAB REPOSITORIES:
